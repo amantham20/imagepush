@@ -1,0 +1,100 @@
+const imagesApril = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/April/IMG_D4D3EC845E2A-1.jpeg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/April/IMG_0720 (1).jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/April/3895EF3A-2884-4019-A5E3-6DCE0E0D92F5 (1).jpg?raw=true",
+]
+
+const imagesAug = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/Aug/.DS_Store?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Aug/IMG_1209.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Aug/IMG_1226.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Aug/IMG_59D70ADE570D-1.jpeg?raw=true",
+]
+
+const imagesDec = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/Dec/IMG_1858.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Dec/IMG_2106.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Dec/IMG_1858.heic.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Dec/IMG_3407_Original.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Dec/IMG_2142.JPG?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Dec/IMG_2141.PNG?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Dec/IMG_2140.PNG?raw=true",
+]
+
+const imagesFeb = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/Feb/IMG_0363.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Feb/IMG_0413.JPG?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Feb/IMG_7C881AA44B0C-1.jpeg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Feb/IMG_7C881AA44B0C-2.jpeg?raw=true",
+]
+
+const imagesJan = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/Jan/IMG_A82422C12D8F-1.jpeg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Jan/IMG_0261.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Jan/IMG_0248.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Jan/IMG_0289.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Jan/IMG_0C675FBCC447-1.jpeg?raw=true",
+]
+
+const imagesJuly = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/July/IMG_1109.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/July/.DS_Store?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/July/IMG_D5C68244A348-1.jpeg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/July/IMG_1104.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/July/IMG_9B6B8D58332C-1.jpeg?raw=true",
+]
+
+const imagesJune = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/June/981AC2FF-1AFB-44C0-8586-FFC84D5B8E23.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/June/IMG_1043.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/June/IMG_2163.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/June/IMG_0972.JPG?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/June/IMG_3C581B3D81C9-1.jpeg?raw=true",
+]
+
+const imagesMarch = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/March/.DS_Store?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/March/IMG_0600_Original.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/March/IMG_0534.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/March/PXL_20230307_051109575_Original.jpg?raw=true",
+]
+
+const imagesMay = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/May/.DS_Store?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/May/IMG_0869.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/May/IMG_0913.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/May/IMG_0962.jpg?raw=true",
+]
+
+const imagesNov = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/Nov/.DS_Store?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Nov/IMG_1793.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Nov/IMG_1742.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Nov/IMG_1809.jpg?raw=true",
+]
+
+const imagesOct = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/Oct/IMG_1532.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Oct/.DS_Store?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Oct/IMG_1669.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Oct/IMG_1546.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Oct/IMG_0314.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Oct/IMG_1542.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Oct/IMG_9377.jpg?raw=true",
+]
+
+const imagesSep = [
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1484.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/.DS_Store?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1382 (1).jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1368.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1395.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1424.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1163.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1376.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1239.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1477.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1462.jpg?raw=true",
+    "https://github.com/amantham20/imagepush/blob/master/2023/Sep/IMG_1448.jpg?raw=true",
+]
+
